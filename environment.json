@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "matplotlib": "3.11.2",
+  "figure_font": "Times New Roman",
+  "seeds": {
+    "mechanisms": 20261014,
+    "many_workers": 20261016,
+    "comparisons": 20261018
+  },
+  "reference_data_version": "1.0.0"
+}

@@ -1,0 +1,22 @@
+{
+  "seed": 20261016,
+  "repeats": 2000,
+  "rate": 1,
+  "histories_per_worker": [
+    16,
+    64,
+    256
+  ],
+  "workers": [
+    1,
+    4,
+    16,
+    64,
+    256,
+    1024,
+    4096
+  ],
+  "normalization": "max_i T_i / (H E[W]); E[W] = 25",
+  "history_models": "Same models as models.py; W = 5 + K",
+  "numpy": "2.5.4"
+}

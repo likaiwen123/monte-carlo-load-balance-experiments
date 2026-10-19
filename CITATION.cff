@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using these experiments."
+type: software
+title: "Monte Carlo load balance experiments"
+version: 1.0.0
+repository-code: "https://github.com/likaiwen123/monte-carlo-load-balance-experiments"
+url: "https://github.com/likaiwen123/monte-carlo-load-balance-experiments"
+authors:
+  - family-names: Li
+    given-names: Kaiwen
+preferred-citation:
+  type: article
+  title: "A Time-based Dynamic Load Balance Method for Monte Carlo Shielding Simulations"
+  authors:
+    - family-names: Li
+      given-names: Kaiwen
+    - family-names: Wang
+      given-names: Wu
+    - family-names: An
+      given-names: Nan
+    - family-names: Liang
+      given-names: Jingang
+    - family-names: Liu
+      given-names: Zhihong
+    - family-names: Wang
+      given-names: Kan
